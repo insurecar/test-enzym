@@ -1,0 +1,79 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`User should  display 1`] = `
+<div
+  className="user"
+>
+  <img
+    alt="User Avatar"
+    className="user__avatar"
+    src="ndjfbg"
+  />
+  <div
+    className="user__info"
+  >
+    <span
+      className="user__name"
+    >
+      Ivan
+    </span>
+    <span
+      className="user__location"
+    >
+      Lviv
+    </span>
+  </div>
+</div>
+`;
+
+exports[`User should  get function 1`] = `
+<div
+  className="user"
+>
+  <img
+    alt="User Avatar"
+    className="user__avatar"
+    src="ndjfbg"
+  />
+  <div
+    className="user__info"
+  >
+    <span
+      className="user__name"
+    >
+      Ivan
+    </span>
+    <span
+      className="user__location"
+    >
+      Lviv
+    </span>
+  </div>
+</div>
+`;
+
+exports[`User should  snapshot 1`] = `
+<div
+  className="user"
+>
+  <img
+    alt="User Avatar"
+    className="user__avatar"
+    src="ndjfbg"
+  />
+  <div
+    className="user__info"
+  >
+    <span
+      className="user__name"
+    >
+      Ivan
+    </span>
+    <span
+      className="user__location"
+    >
+      Lviv
+    </span>
+  </div>
+</div>
+`;
