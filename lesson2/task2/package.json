@@ -1,0 +1,20 @@
+{
+    "scripts": {
+        "test": "jest"
+    },
+    "dependencies": {
+        "core-js": "^3.22.6",
+        "corejs": "^1.0.0",
+        "enzyme": "^3.11.0",
+        "enzyme-adapter-react-16": "^1.15.6",
+        "react": "^16.8.6",
+        "react-dom": "^16.8.6"
+    },
+    "devDependencies": {
+        "@babel/plugin-proposal-class-properties": "^7.17.12",
+        "cheerio": "^1.0.0-rc.3",
+        "enzyme-to-json": "^3.6.2",
+        "jsdom": "19.0.0",
+        "jsdom-global": "3.0.2"
+    }
+}
